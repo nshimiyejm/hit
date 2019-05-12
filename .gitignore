@@ -1,0 +1,8 @@
+# Local development databases
+db.sqlite3
+
+
+# Visual Studio Code 
+.idea/
+
+__pycache__/
